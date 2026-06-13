@@ -1,0 +1,8 @@
+streamlit==1.43.2
+langchain-core==0.3.52
+langchain-anthropic==0.3.7
+anthropic==0.49.0
+pandas==2.2.3
+plotly==5.24.1
+python-dotenv==1.0.1
+httpx==0.27.2
